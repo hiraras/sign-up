@@ -1,0 +1,5 @@
+const SIGN_UP = "SIGN_UP";
+const SIGN_UP_TIME = "SIGN_UP_TIME";
+const SIGN_UP_DATA = "SIGN_UP_DATA";
+
+export { SIGN_UP, SIGN_UP_TIME, SIGN_UP_DATA };

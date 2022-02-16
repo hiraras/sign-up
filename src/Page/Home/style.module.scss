@@ -1,0 +1,17 @@
+.ctn {
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.timeTip {
+    background-color: #3b72ff;
+    color: #fff;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    line-height: 120px;
+    text-align: center;
+}
